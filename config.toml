@@ -1,11 +1,11 @@
 # Basic information
-baseURL = 'https://taixhi.github.io/website-template' # Should be updated to your domain
+baseURL = 'https://llopez23.github.io/person' # Should be updated to your domain
 languageCode = 'en-us'
 theme="archie"
 
 # Metadata to edit
-title = 'Austin'
-copyright = "© Austin"
+title = 'Leslie Lopez'
+copyright = "© Leslie Lopez industries"
 blogTitle='Check out my blog:'
 
 # For code highlighting
